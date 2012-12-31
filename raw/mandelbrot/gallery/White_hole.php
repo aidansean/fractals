@@ -11,5 +11,5 @@ $_GET['n']  = 2 ;
 $_GET['palette'] = 22 ;
 $_GET['palette'] = 0 ;
 $_GET['small'] = -1 ;
-include('mandelbrot.php') ;
+include('../mandelbrot.php') ;
 ?>

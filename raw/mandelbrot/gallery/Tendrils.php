@@ -18,5 +18,5 @@ $_GET['xMax'] += $dx ;
 $_GET['yMin'] += $dy ;
 $_GET['yMax'] += $dy ;
 
-include('mandelbrot.php') ;
+include('../mandelbrot.php') ;
 ?>
