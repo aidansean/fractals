@@ -1,0 +1,187 @@
+#layout
+{
+  width : 900px ;
+  margin-left  : auto ;
+  margin-right : auto ;
+  margin-top : 10px ;
+  margin-bottom : 10px ;
+  background-color : #ffffff ;
+  border : 1px solid #0000cc ;
+}
+#content
+{
+  margin-right : 263px ;
+  padding : 5px ;
+}
+#contentWrapper
+{
+  border : 1px solid black ;
+}
+#sidebar
+{
+  float : right ;
+  width : 263px ;
+  padding : 2px ;
+}
+#galleryContainer
+{
+  clear : both ;
+}
+
+#footer
+{
+  clear : both ;
+  margin : 0px ;
+  padding : 5px ;
+  font-family : arial , sans-serif ;
+  text-align : center ;
+  background-color : #0000cc ;
+  color : #ffffff ;
+}
+#footer a{ color : #ffffff ; }
+.noBorder
+{
+  border : none ;
+  border : 0px solid black ;
+}
+#header
+{
+  text-align : center ;
+}
+
+body
+{
+  margin  : 0px ;
+  padding : 0px ;
+  line-height : 1.5em ;
+  background-color : #aaaaff ;
+}
+
+h1
+{
+  margin : 0px ;
+  padding : 15px ;
+  font-family : arial , sans-serif ;
+  text-align : center ;
+  background-color : #0000cc ;
+  color : #ffffff ;
+}
+
+h2
+{
+  margin : 0px ;
+  margin-top : 5px ;
+  padding : 5px ;
+  font-size : 14pt ;	
+  font-family : arial , sans-serif ;
+  text-align : center ;
+  background-color : #00cc00 ;
+  color : #ffffff ;
+}
+
+table{ border-collapse : collapse ; }
+td{ padding : 0px ; }
+td.content
+{
+  width : 125px ;
+  height : 125px ;
+  padding : 0px ;
+}
+img.noBorder:hover{ opacity : 0.8 ; }
+
+.border
+{
+  border : 1px solid black ;
+  margin : 2px ;
+}
+
+p, div.center, td
+{
+  font-family : arial , sans-serif ;
+  text-align : justify ;
+  font-size : 10pt ;
+}
+th.coordinates, th.palette
+{
+  padding : 2px ;
+  font-size : 10pt ;	
+  font-family : arial , sans-serif ;
+  text-align : center ;
+}
+td.palette
+{
+  padding : 5px ;
+}
+table#coordinates, table#gallery
+{
+  margin-top : 10px ;
+  margin : auto ;
+}
+div.center
+{
+  text-align : center ;
+}
+td.gallery
+{
+  text-align : center ;
+  vertical-align : top ;
+  padding : 5px ;
+}
+table#paletteSelector
+{
+  width : 80% ;
+  margin : auto ;
+}
+table#fractalSelector
+{
+  margin : auto ;
+}
+td.spectrum
+{
+  width : 3px ;
+  height : 20px ;
+}
+table#compass
+{
+  margin : 25px ;
+  margin : auto ;
+  border-collapse : separate ;
+  background-color : #ffffff ;
+}
+td.compass
+{
+  padding : 2px ;
+  font-family : arial , sans-serif ;
+  text-align : center ;
+  vertical-align : middle ;
+  background-color : #aaaacc ;
+  color : #ffffff ;
+  font-size : 20pt ;
+  width : 50px ;
+  height : 50px ;
+}
+a.compass
+{
+  text-decoration : none ;
+  color : #ffffff ;
+}
+span#zoomOut
+{
+  font-size : 10pt ;
+}
+div#aboutFractals
+{
+  padding : 20px ;
+  text-align : justify ;
+}
+p.equation
+{
+  font-family : georgia ;
+  font-style  : italic ;
+  text-align : center ;
+  font-size : 12pt ;
+}
+div.center
+{
+  text-align : center ;
+}
